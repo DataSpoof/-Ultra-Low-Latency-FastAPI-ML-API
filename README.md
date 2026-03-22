@@ -1,5 +1,3 @@
-# -Ultra-Low-Latency-FastAPI-ML-API
-
 # 🚀 Ultra-Low Latency FastAPI ML API
 
 ---
