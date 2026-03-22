@@ -256,11 +256,4 @@ FastAPI may NOT be suitable.
 
 ---
 
-## 🤝 Next Steps
-
-You can extend this project into:
-- 📄 IEEE-style research paper
-- 🎥 Instagram reel content
-- 📊 Benchmark experiment design
-
 ---
